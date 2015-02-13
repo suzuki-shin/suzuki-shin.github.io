@@ -1,3 +1,5 @@
-# test post
-
-wao jekyll now!
+---
+layout: post
+title: wao jekyll now!
+---
+test
