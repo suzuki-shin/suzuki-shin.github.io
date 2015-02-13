@@ -6,7 +6,7 @@
 name: 毎日少しずつHaskellを勉強する
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: I like Haskell, Cat, Shogi, Sake.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/887672?v=3&s=140
@@ -18,7 +18,7 @@ avatar: https://avatars2.githubusercontent.com/u/887672?v=3&s=140
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
+  email: shinichiro.su@gmail.com
   facebook: 
   flickr: 
   github: suzuki-shin
@@ -30,7 +30,7 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: 
+disqus: disqus_J1AJrLQKHj
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 
