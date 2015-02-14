@@ -4,9 +4,9 @@ title: elmでスライド作成ツール作ってみた
 ---
 
 昨年末の[Elm Advent Calendar](http//qiita.com/advent-calendar/2014/elm)を見て、[elm](http://elm-lang.org/)に興味を持ち、ちょこちょこ触ってました。で、とりあえず何か作ってみようということで、スライドっぽいウェブページを作るツール（Kelmote）を作って見ました。
-それで作ったサンプルは (http://suzuki-shin.github.io/kelmote/)
+それで作った[サンプル](http://suzuki-shin.github.io/kelmote/)。
 カーソルキー左右（もしくはクリックorタッチ）でページ送り（戻し）できます。
-ソースは (https://github.com/suzuki-shin/kelmote) においてあります。
+ソースは[こちら](https://github.com/suzuki-shin/kelmote)。
 
 ## elm触った感想
 
@@ -14,7 +14,7 @@ title: elmでスライド作成ツール作ってみた
 ぼくがAltJSに求める一番のものはこれ。コンパイラが型エラーもちゃんと教えてくれて捗る。
 
 ### Haskellっぽいsyntaxうれしい
-まあ、Haskell好きなので。でも[HaskellというよりMLじゃんという話も]。(https://twitter.com/shin16s/status/546241498828652544)
+まあ、Haskell好きなので。でも[HaskellというよりMLじゃんという話も](https://twitter.com/shin16s/status/546241498828652544)。
 
 ### 環境作るのが楽
 macではバイナリ持ってきてインストールできた。windowsもそうみたい。
