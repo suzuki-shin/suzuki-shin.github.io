@@ -90,3 +90,5 @@ main = do
 
 ```
 [gistfile1.hs](https://gist.github.com/suzuki-shin/8066285#file-gistfile1-hs)
+
+実行結果付きは[これ](http://ideone.com/XOspWl)
