@@ -4,8 +4,7 @@ title: コマンドラインでTwitterにPOSTできるアプリを作った
 ---
 [前回のHaskellもくもく会](http://haskellmokumoku.connpass.com/event/6063/)のときに作ってたやつがだいたいできたかなという感じなのでブログに書いておく。
 
-[f:id:suzuki-shin:20140602134715p:plain]
-(https://github.com/suzuki-shin/twhs)
+![]({{ site.baseurl }}/images/スクリーンショット 2014-06-02 13.44.20.png)
 
 これをつくり始めたのは、twitterに自分用のメモ的な意味でPOSTをしたいことが僕はよくあって、そのときに
 つぶやきたい => twitter（web、アプリ）を開く => timelineが見える => timelineを読み込んでしまう => 15分経つ => 何をつぶやこうとしていたか忘れる 
