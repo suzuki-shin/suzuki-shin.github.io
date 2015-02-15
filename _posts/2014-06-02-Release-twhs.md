@@ -1,6 +1,7 @@
 ---
 layout: post
 title: コマンドラインでTwitterにPOSTできるアプリを作った
+date: 2014-06-02
 ---
 [前回のHaskellもくもく会](http://haskellmokumoku.connpass.com/event/6063/)のときに作ってたやつがだいたいできたかなという感じなのでブログに書いておく。
 
