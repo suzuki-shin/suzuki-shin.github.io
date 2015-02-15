@@ -1,6 +1,7 @@
 ---
 layout: post
 title: elmでスライド作成ツール作ってみた
+date: 2015-02-12
 ---
 
 昨年末の[Elm Advent Calendar](http//qiita.com/advent-calendar/2014/elm)を見て、[elm](http://elm-lang.org/)に興味を持ち、ちょこちょこ触ってました。で、とりあえず何か作ってみようということで、スライドっぽいウェブページを作るツール（Kelmote）を作って見ました。
