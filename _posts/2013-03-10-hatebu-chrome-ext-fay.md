@@ -15,9 +15,7 @@ module Htbcomment2 (main) where
 
 import Prelude
 import FFI
--- import MyPrelude
 import JS
--- import ChromeExt
 
 baseUrl :: String
 baseUrl = "http://b.hatena.ne.jp/entry/jsonlite/"
