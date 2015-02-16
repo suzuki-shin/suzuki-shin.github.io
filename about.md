@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm programmer. I like Haskell, Cat, Sake, Shogi.
+I like Haskell, Cat, Sake, Shogi.
 
 ### Contact me
 
