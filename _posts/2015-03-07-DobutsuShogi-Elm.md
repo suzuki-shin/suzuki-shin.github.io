@@ -5,6 +5,8 @@ date: 2015-03-07
 ---
 
 [Haskellもくもく会](http://haskellmokumoku.connpass.com/event/12619/)や[渋谷 関数型ハッカソン](http://fancs.connpass.com/event/12143/)で、どうぶつしょうぎをelmで作ってて、だいたいできたので公開。
+
+
 [![スクリーンショット]({{ site.baseurl }}/images/doubutsuShogi.png)](http://suzuki-shin.github.io/doubutsuShogi/)
 
 
