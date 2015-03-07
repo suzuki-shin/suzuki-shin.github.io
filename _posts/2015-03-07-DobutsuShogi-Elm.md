@@ -4,7 +4,7 @@ title: elmでどうぶつしょうぎ作ってみた
 date: 2015-03-07
 ---
 
-[Haskellもくもく会](http://haskellmokumoku.connpass.com)や[渋谷 関数型ハッカソン](http://fancs.connpass.com/event/12143/)で、どうぶつしょうぎをelmで作ってて、だいたいできたので公開。
+[Haskellもくもく会](http://haskellmokumoku.connpass.com)や[渋谷 関数型ハッカソン](http://fancs.connpass.com/event/12143/)で、どうぶつしょうぎをelmで作ってて、なんとなく動くようになったので公開。
 
 
 [![スクリーンショット]({{ site.baseurl }}/images/doubutsuShogi.png)](http://suzuki-shin.github.io/doubutsuShogi/)
