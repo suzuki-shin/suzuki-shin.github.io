@@ -9,3 +9,8 @@ date: 2015-03-22
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 http://suzuki-shin.github.io/doubutsuShogi?hogehoge123 のように適当なパラメタをつけて、そのURLにアクセスすると盤を共有できて、駒を動かすこともできる。
+
+![どうぶつしょうぎ通信対戦]({{ site.baseurl }}/images/doubutsuShogi-milkcocoa.png)
+
+[milkcocoa.js](https://mlkcca.com/)知らなかったけど、便利ですね。使うの超簡単だし。
+気が向いたらnative moduleにしてelmから使えるようにしてみようかな。
