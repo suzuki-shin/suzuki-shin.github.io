@@ -1,4 +1,8 @@
-# HaskellのDBライブラリPersistentの使い方でわからないことなどの雑なメモ
+---
+layout: post
+title: HaskellのDBライブラリPersistentの使い方でわからないことなどの雑なメモ
+date: 2015-10-13
+---
 
 - derivingPersistFieldがうまくいかない。その型がnot defined locallyと言われてしまう
  - => dirivePersistentFieldしたい型を別モジュールに分けたらうまくいった。TemplateHaskellの制限っぽい
