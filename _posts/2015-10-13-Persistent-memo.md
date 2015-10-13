@@ -10,6 +10,8 @@ date: 2015-10-13
 
 - type synonymをPersistFieldにしたいのだけど、type synonymをToJSONなどのインスタンスにする方法がわからない（最終的にpersistentで定義したテーブルの型をToJSON,FromJSONのインスタンスにしたいので） 
 - Data.TreeのTree aをPersistFieldにしたいが方法がわからない（できるかどうかもわからない）
+ - => 必要なくなったからいいか
 - トランザクションについて調べる
+ - => runSqliteとかの単位でなるらしい。なるほど。
 - いつの間にかmigrationしなくなっちゃった
  - => actionでエラーになってロールバックされてるだけだったみたい
