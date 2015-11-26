@@ -11,6 +11,8 @@ date: 2015-11-26
 ### つくったもの
 [はてぶコメント表示する拡張](https://github.com/suzuki-shin/chrome_ext_elm/)をElmで作りました。Elmのバージョンは0.16です。
 
+![SS](https://raw.githubusercontent.com/suzuki-shin/chrome_ext_elm/master/chrome_ext_elm_screen_shot.png)
+
 ### つくりかた
 詳細はソースコードを見てもらうとして、作り方をざっくり説明すると、Chrome Platform API（今回使用したのはtabs.queryだけ。あとからtabs.getCurrentを使えばもっと楽だと気づいたのですが、そのままにしてあります）をElmのNative moduleでラップしてElmから使えるようにして、それで取得したtabのurlを使ってelm-httpではてなブックマークAPIにリクエストを送りはてぶ情報を取得しています。
 
