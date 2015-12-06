@@ -21,8 +21,8 @@ Native moduleの作り方は[ElmのNative moduleを書く](http://qiita.com/phil
 
 ### つまづいたところ
 * 最初は、jsだけでなくhtmlもElmで生成しようと思ったのですが、そうするとscriptタグにsrc属性が無いとchromeに怒られてうまく行かなかったので、jsだけ生成して読みこむようにした。
-* なんでかわからないけど、chrome APIの返してくるtab情報のfaviconのurlのプロパティ名が`favIconUrl`（favIconの Iが大文字）になっていて、最初取得できずにハマりました。いや、faviconUrl使ってないんですけど、取得できないとJSONのdecodeのところで失敗するのです。https://developer.chrome.com/extensions/tabs#type-Tab
-* tab.queryをラップしたTaskとHttp.getのTaskのErrorの方が違うので、最初まとめ方がわからず苦労した。
+* なんでかわからないけど、[chrome APIの返してくるtab情報のfaviconのurlのプロパティ名が`favIconUrl`（favIconの Iが大文字）になっていて](https://developer.chrome.com/extensions/tabs#type-Tab)、最初取得できずにハマりました。いや、faviconUrl使ってないんですけど、取得できないとJSONのdecodeのところで失敗するのです。
+* tab.queryをラップしたTaskとHttp.getのTaskのErrorの型が違うので、最初まとめ方がわからず苦労した。
  * Task.mapErrorという関数があり、それでErrorの型を変換して解決した。
 
 ### まとめ
@@ -31,5 +31,6 @@ Native moduleの作り方は[ElmのNative moduleを書く](http://qiita.com/phil
 あと、過去にElmで作ったものについても書いてます。もし良かったら見てみてください。
 
 * [elmで作ったどうぶつしょうぎをmilkcocoa.jsで通信対戦できるようにした](http://suzuki-shin.github.io/Release-doubutsuShogi-Elm-Milkcocoa/)
+* [elmでどうぶつしょうぎ作ってみた](http://suzuki-shin.github.io/DobutsuShogi-Elm/)
 * [elmでスライド作成ツール作ってみた](http://suzuki-shin.github.io/Release-Kelmote/)
 
